@@ -1,7 +1,5 @@
 # ProgramaPublica
 
-Projeto para programa de estagio
-
 Projeto desenvolvido na IDE Netbeans
 
 Devera ter instalado java 8 ou superior
